@@ -10,6 +10,7 @@
     "vercel-build": "npm run prepare && next build"
   },
   "dependencies": {
+    "@vercel/analytics": "^1.3.2",
     "daisyui": "^4.12.13",
     "next": "15.0.1",
     "react": "19.0.0-rc-69d4b800-20241021",
