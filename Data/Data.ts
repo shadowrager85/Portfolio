@@ -7,6 +7,7 @@ export const BaseInfo = {
 export const aboutInfo = {
     title: "",
     description: "",
+    clients: "6+",
     experience: "1+",
     project: "10+",
     website: "20+",
@@ -14,19 +15,19 @@ export const aboutInfo = {
 export const serviceData = [
     {
         id: 1,
-        title: "",
+        title: "Web Development",
         description: "",
         icon: "",
     },
     {
         id: 2,
-        title: "",
+        title: "UI/UX Design",
         description: "",
         icon: "",
     },
     {
         id: 3,
-        title: "",
+        title: "App Development",
         description: "",
         icon: "",
     },
@@ -52,49 +53,49 @@ export const skillsData = [
     {
       id: 1,
       title: "React",
-      image: "/images/react.svg",
+      image: "/images/icons8-react-native.svg",
       percent: "30%",
     },
     {
       id: 2,
       title: "CSS",
-      image: "/images/css.svg",
+      image: "/images/icons8-css-logo.svg",
       percent: "97%",
     },
     {
       id: 3,
       title: "JavaScript",
-      image: "/images/js.svg",
+      image: "/images/icons8-javascript.svg",
       percent: "30%",
     },
     {
       id: 4,
       title: "TypeScript",
-      image: "/images/ts.svg",
+      image: "/images/icons8-typescript.svg",
       percent: "30%",
     },
     {
       id: 5,
       title: "HTML",
-      image: "/images/html.svg",
+      image: "/images/icons8-html-logo.svg",
       percent: "67%",
     },
     {
       id: 6,
       title: "Node JS",
-      image: "/images/node.svg",
+      image: "/images/icons8-nodejs.svg",
       percent: "10%",
     },
     {
       id: 7,
       title: "Next.Js",
-      image: "",
+      image: "/images/icons8-nextjs.svg",
       percent: "20%",
     },
     {
       id: 8,
       title: "Python",
-      image: "/images/python.svg",
+      image: "/images/icons8-phython.svg",
       percent: "30%",
     },
   ];
